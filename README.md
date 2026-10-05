@@ -354,5 +354,109 @@ The project demonstrates an end-to-end approach for transforming raw healthcare 
 
 This provides a reusable framework for combining traditional data analytics, AI-assisted reporting, and business intelligence visualization in a healthcare analytics workflow.
 
+## How to Run
+
+### 1. Clone the Repository
+
+Clone the repository to your local machine and navigate to the project directory.
+
+### 2. Install Required Python Libraries
+
+Install the required Python packages:
+
+```bash
+pip install pandas numpy google-genai
+```
+
+### 3. Run the Data Pipeline
+
+Run the scripts in the following order:
+
+#### Step 1 — Retrieve the CMS Data
+
+```bash
+python "API & DF Creation.py"
+```
+
+This retrieves the hospital performance data from the CMS public API and creates the initial dataset.
+
+#### Step 2 — Clean and Analyze the Data
+
+```bash
+python "Data Cleaning.py"
+```
+
+This prepares the data, performs the Emergency Department analysis, identifies anomalies, assigns severity and priority levels, and generates:
+
+```text
+hospital_ed_anomaly_report.csv
+```
+
+#### Step 3 — Generate the AI Report and Chatbot
+
+```bash
+python "AI_Report & Chatbot.py"
+```
+
+This uses Google Gemini to:
+
+* Generate the structured AI executive report.
+* Validate AI-generated numerical results against Python calculations.
+* Save the validated AI report as `hospital_ai_report.json`.
+* Start the interactive AI chatbot.
+
+### 4. Configure the Gemini API Key
+
+The Gemini API requires a valid API key.
+
+For security, store the API key as an environment variable rather than hard-coding it directly in the Python script.
+
+Example:
+
+```bash
+export GEMINI_API_KEY="your_api_key"
+```
+
+Then configure the Python application to read the key from the environment.
+
+> **Security Note:** Never commit API keys or other credentials to GitHub.
+
+### 5. Tableau Dashboard
+
+The final `hospital_ed_anomaly_report.csv` can be loaded into Tableau to reproduce the dashboard analysis.
+
+The published Tableau dashboard is available through Tableau Public.
+
+## Future Enhancements
+
+Potential enhancements to the project include:
+
+* **Automated Data Refresh**
+  Schedule the CMS data pipeline to automatically retrieve and process updated hospital performance data.
+
+* **Expanded Hospital Metrics**
+  Incorporate additional CMS quality and operational measures beyond Emergency Department performance.
+
+* **Historical Trend Analysis**
+  Track hospital performance over multiple reporting periods to identify recurring or improving performance patterns.
+
+* **Advanced Anomaly Detection**
+  Explore statistical or machine learning approaches for detecting unusual hospital performance patterns.
+
+* **Automated Dashboard Refresh**
+  Connect the analytical pipeline to a regularly refreshed visualization layer.
+
+* **Enhanced AI Reporting**
+  Expand the AI reporting layer to support additional executive questions and comparisons across hospitals, states, and priority levels.
+
+* **Improved Data Governance**
+  Add data-quality checks, lineage tracking, and logging to make the pipeline more robust for production environments.
+
+* **Deployment**
+  Package the analytics and AI workflow into a deployable application or scheduled reporting service.
+
+
+
+
 
 

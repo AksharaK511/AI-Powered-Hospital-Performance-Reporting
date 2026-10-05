@@ -1,0 +1,67 @@
+facility_id,facility_name,state,score_numeric,excess_minutes,severity_category,priority_level,recommended_action
+400114,MANATI MEDICAL CENTER DR OTERO LOPEZ,PR,422.0,123.875,Severe,Critical,Prioritize for immediate operational review
+050327,LOMA LINDA UNIVERSITY MEDICAL CENTER,CA,410.0,111.875,Severe,Critical,Prioritize for immediate operational review
+450213,UNIVERSITY HEALTH SYSTEM,TX,384.0,85.875,Severe,Critical,Prioritize for immediate operational review
+090011,MEDSTAR WASHINGTON HOSPITAL CENTER,DC,377.0,78.875,Severe,Critical,Prioritize for immediate operational review
+190005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,LA,373.0,74.875,Severe,Critical,Prioritize for immediate operational review
+450289,HARRIS HEALTH,TX,370.0,71.875,Severe,Critical,Prioritize for immediate operational review
+140119,RUSH UNIVERSITY MEDICAL CENTER,IL,369.0,70.875,Severe,Critical,Prioritize for immediate operational review
+210015,MEDSTAR FRANKLIN SQUARE MEDICAL CENTER,MD,367.0,68.875,Severe,Critical,Prioritize for immediate operational review
+210062,MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER,MD,366.0,67.875,Severe,Critical,Prioritize for immediate operational review
+090004,MEDSTAR GEORGETOWN UNIVERSITY HOSPITAL,DC,362.0,63.875,Severe,Critical,Prioritize for immediate operational review
+050625,CEDARS-SINAI MEDICAL CENTER,CA,361.0,62.875,Severe,Critical,Prioritize for immediate operational review
+140281,NORTHWESTERN MEMORIAL HOSPITAL,IL,354.0,55.875,High,High,Conduct detailed operational review
+400132,DOCTORS CENTER HOSPITAL  CAROLINA LLC,PR,350.0,51.875,High,High,Conduct detailed operational review
+090001,GEORGE WASHINGTON UNIV HOSPITAL,DC,350.0,51.875,High,High,Conduct detailed operational review
+210029,JOHNS HOPKINS BAYVIEW MEDICAL CENTER,MD,349.0,50.875,High,High,Conduct detailed operational review
+330057,ST PETER'S HOSPITAL,NY,346.0,47.875,High,High,Conduct detailed operational review
+230046,UNIVERSITY OF MICHIGAN HEALTH SYSTEM,MI,342.0,43.875,High,High,Conduct detailed operational review
+110079,GRADY MEMORIAL HOSPITAL,GA,336.0,37.875,High,High,Conduct detailed operational review
+220086,BETH ISRAEL DEACONESS MEDICAL CENTER,MA,336.0,37.875,High,High,Conduct detailed operational review
+260105,SSM HEALTH SAINT LOUIS UNIVERSITY HOSPITAL,MO,335.0,36.875,High,High,Conduct detailed operational review
+050376,LAC/HARBOR-UCLA MED CENTER,CA,335.0,36.875,High,High,Conduct detailed operational review
+390180,CROZER CHESTER MEDICAL CENTER,PA,333.0,34.875,High,High,Conduct detailed operational review
+050262,RONALD REAGAN UCLA MEDICAL CENTER,CA,332.0,33.875,High,High,Conduct detailed operational review
+110007,PHOEBE PUTNEY MEMORIAL HOSPITAL,GA,331.0,32.875,High,High,Conduct detailed operational review
+050599,UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER,CA,330.0,31.875,High,High,Conduct detailed operational review
+400137,DOCTORS CENTER HOSPITAL ORLANDO HEALTH DORADO,PR,330.0,31.875,High,High,Conduct detailed operational review
+050315,KERN MEDICAL CENTER,CA,329.0,30.875,High,High,Conduct detailed operational review
+050040,LAC/OLIVE VIEW-UCLA MEDICAL CENTER,CA,328.0,29.875,Moderate,Medium,Monitor performance and investigate recurring delays
+050348,UCI HEALTH-ORANGE,CA,328.0,29.875,Moderate,Medium,Monitor performance and investigate recurring delays
+330399,ST BARNABAS HOSPITAL,NY,326.0,27.875,Moderate,Medium,Monitor performance and investigate recurring delays
+390223,PENN PRESBYTERIAN MEDICAL CENTER,PA,326.0,27.875,Moderate,Medium,Monitor performance and investigate recurring delays
+050776,COLLEGE MEDICAL CENTER,CA,324.0,25.875,Moderate,Medium,Monitor performance and investigate recurring delays
+330219,ERIE COUNTY MEDICAL CENTER,NY,322.0,23.875,Moderate,Medium,Monitor performance and investigate recurring delays
+360085,OHIO STATE UNIVERSITY STATE HEALTH SYSTEM,OH,322.0,23.875,Moderate,Medium,Monitor performance and investigate recurring delays
+090005,SIBLEY MEMORIAL HOSPITAL,DC,321.0,22.875,Moderate,Medium,Monitor performance and investigate recurring delays
+390115,JEFFERSON HEALTH- NORTHEAST,PA,320.0,21.875,Moderate,Medium,Monitor performance and investigate recurring delays
+210004,HOLY CROSS HOSPITAL,MD,319.0,20.875,Moderate,Medium,Monitor performance and investigate recurring delays
+340030,DUKE UNIVERSITY HOSPITAL,NC,318.0,19.875,Moderate,Medium,Monitor performance and investigate recurring delays
+210009,"JOHNS HOPKINS HOSPITAL, THE",MD,317.0,18.875,Moderate,Medium,Monitor performance and investigate recurring delays
+110010,EMORY UNIVERSITY HOSPITAL,GA,316.0,17.875,Moderate,Medium,Monitor performance and investigate recurring delays
+230047,HENRY FORD MACOMB HOSPITAL,MI,316.0,17.875,Moderate,Medium,Monitor performance and investigate recurring delays
+310119,THE UNIVERSITY HOSPITAL,NJ,316.0,17.875,Moderate,Medium,Monitor performance and investigate recurring delays
+140088,THE UNIVERSITY OF CHICAGO MEDICAL CENTER,IL,314.0,15.875,Moderate,Medium,Monitor performance and investigate recurring delays
+030064,BANNER - UNIVERSITY MEDICAL CENTER TUCSON CAMPUS,AZ,314.0,15.875,Moderate,Medium,Monitor performance and investigate recurring delays
+500064,HARBORVIEW MEDICAL CENTER,WA,312.0,13.875,Low,Low,Continue routine performance monitoring
+170040,UNIVERSITY OF KANSAS HOSPITAL,KS,311.0,12.875,Low,Low,Continue routine performance monitoring
+140150,UNIVERSITY OF ILLINOIS HOSPITAL AND CLINICS,IL,308.0,9.875,Low,Low,Continue routine performance monitoring
+330222,SARATOGA HOSPITAL,NY,307.0,8.875,Low,Low,Continue routine performance monitoring
+390222,RIDDLE MEMORIAL HOSPITAL,PA,306.0,7.875,Low,Low,Continue routine performance monitoring
+450015,PARKLAND HEALTH & HOSPITAL SYSTEM,TX,306.0,7.875,Low,Low,Continue routine performance monitoring
+220077,BAYSTATE MEDICAL CENTER,MA,306.0,7.875,Low,Low,Continue routine performance monitoring
+330279,MERCY HOSPITAL OF BUFFALO,NY,306.0,7.875,Low,Low,Continue routine performance monitoring
+220110,BRIGHAM AND WOMEN'S HOSPITAL,MA,305.0,6.875,Low,Low,Continue routine performance monitoring
+330043,NS/LIJ HS SOUTHSIDE HOSPITAL,NY,304.0,5.875,Low,Low,Continue routine performance monitoring
+450044,UT OF TEXAS  SOUTHWESTERN UNIVERSITY HOSPITAL - WILLIAM P. CLEMENTS JR.,TX,304.0,5.875,Low,Low,Continue routine performance monitoring
+210002,UNIVERSITY OF MARYLAND MEDICAL CENTER,MD,304.0,5.875,Low,Low,Continue routine performance monitoring
+390329,JEFFERSON EINSTEIN MONTGOMERY HOSPITAL,PA,303.0,4.875,Low,Low,Continue routine performance monitoring
+210016,ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER,MD,302.0,3.875,Low,Low,Continue routine performance monitoring
+230230,EDWARD W SPARROW HOSPITAL,MI,302.0,3.875,Low,Low,Continue routine performance monitoring
+140197,METHODIST HOSPITAL OF CHICAGO,IL,302.0,3.875,Low,Low,Continue routine performance monitoring
+330164,HIGHLAND HOSPITAL,NY,302.0,3.875,Low,Low,Continue routine performance monitoring
+390195,MAIN LINE HOSPITAL LANKENAU,PA,300.0,1.875,Low,Low,Continue routine performance monitoring
+330226,UNITY HOSPITAL,NY,300.0,1.875,Low,Low,Continue routine performance monitoring
+140067,SAINT FRANCIS MEDICAL CENTER,IL,300.0,1.875,Low,Low,Continue routine performance monitoring
+050353,PROVIDENCE LITTLE COMPANY OF MARY MED CTR TORRANCE,CA,300.0,1.875,Low,Low,Continue routine performance monitoring
+440152,REGIONAL ONE HEALTH,TN,299.0,0.875,Low,Low,Continue routine performance monitoring
